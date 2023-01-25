@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.045">
+    <testcase classname="Instagram Login Function Test Case" name="Login Function with valid user Name and Valid Password" time="8.816">
+        <system-out><![CDATA[Given User have to launch Browser...........................................passed
+And User Have to navigate the url "https://www.instagram.com/"..............passed
+And User have to validate Instagram land on page............................passed
+And User have to enter valid Username or Mail  "hemasri1697@gmail.com"......passed
+And User have to enter valid Password  "Hem@1801"...........................passed
+And User have to click login Button.........................................passed
+Then User have to validate Login Succesfully................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
